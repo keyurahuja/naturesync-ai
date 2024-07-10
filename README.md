@@ -12,7 +12,7 @@ Follow these instructions to consult with them:-
 4. You can chat with the expert now. Consult regarding any type of carbon dioxide removal/carbon credit project that you wish to undertake or want advice on.
 
 # Roadmap
-More AI agents covering specific use cases and addressing major pain points pertaining to voluntary carbon markets are being developed by us and will be introduced soon. Stay tuned! 
+More AI agents covering specific use cases and addressing major pain points pertaining to voluntary carbon markets and its stakeholders are being developed by us and will be introduced soon. Stay tuned! 
 
 ## 🚀 About Me
 I'm Keyur Ahuja, an author and entrepreneur. I have written 6 books and launched 16 startups and 5 nonprofits till now. You can learn more by visiting my profile.
