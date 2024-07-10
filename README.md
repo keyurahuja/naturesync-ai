@@ -2,7 +2,7 @@
 We are building AI agents for voluntary carbon markets!
 
 # Getting Started
-There is currently a VCM project expert for each and every country of the world in the "VCM Project Experts" folder.
+There is currently a VCM project expert for each and every country of the world (with a few exceptions) in the "VCM Project Experts" folder.
 
 Follow these instructions to consult with them:-
 
