@@ -6,7 +6,7 @@ There is currently a VCM project expert for each and every country of the world 
 
 Follow these instructions to consult with them:-
 
-1. Copy the description of the desired expert for the country you wish to consult about, regarding carbon dioxide removal/carbon creedit projects.
+1. Copy the description of the desired expert for the country you wish to consult about, regarding carbon dioxide removal/carbon credit projects.
 2. Paste the description into an AI chatbot with real time internet access such as ChatGPT or Copilot.
 3. Add the line "Assume you are INSERT EXPERT NAME HERE. Start a conversation with me." at the end in a new paragraph after the description and send the message. Example: "Assume you are Isabelle Nadeau. Start a conversation with me."
 4. You can chat with the expert now. Consult regarding any type of carbon dioxide removal/carbon credit project that you wish to undertake or want advice on.
